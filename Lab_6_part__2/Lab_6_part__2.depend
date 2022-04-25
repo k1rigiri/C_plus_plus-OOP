@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1639655543 source:c:\users\kirigiri\downloads\fig_main.cpp
+	"new_fig.h"
+
+1639655539 c:\users\kirigiri\downloads\new_fig.h
+	"figure.h"
+
+1639656080 c:\users\kirigiri\downloads\figure.h
+
+1639655545 source:c:\users\kirigiri\downloads\figure.cpp
+	"figure.h"
+	<iostream>
+	<string>
+
+1639655541 source:c:\users\kirigiri\downloads\triangle.cpp
+	"new_fig.h"
+	<iostream>
+	<math.h>
+
+1639667499 source:c:\users\kirigiri\desktop\abyss\university\нно\lab_6_part__2\main.cpp
+	"new_fig.h"
+
+1639668539 source:c:\users\kirigiri\desktop\abyss\university\нно\lab_6_part__2\figure.cpp
+	"figure.h"
+	<iostream>
+	<string>
+
+1639656080 c:\users\kirigiri\desktop\abyss\university\нно\lab_6_part__2\figure.h
+
+1639655539 c:\users\kirigiri\desktop\abyss\university\нно\lab_6_part__2\new_fig.h
+	"figure.h"
+
+1639655541 source:c:\users\kirigiri\desktop\abyss\university\нно\lab_6_part__2\triangle.cpp
+	"new_fig.h"
+	<iostream>
+	<math.h>
+
